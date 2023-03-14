@@ -1,3 +1,5 @@
+package com.huangqihong.java;
+
 public class DataType {
     public static void main(String[] args) {
         byte num1 = 1;
